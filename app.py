@@ -442,13 +442,13 @@ if len(df) == 0:
 
 
 tabs = st.tabs([
-    "📊 Vue d’ensemble",
-    "🏢 Services FM",
-    "💰 Revenus & paiements",
-    "🚨 Urgences & statut",
-    "👥 Équipe & performance",
-    "🗺️ Carte Côte d’Ivoire",
-    "📋 Données",
+    "Vue d’ensemble",
+    "Services FM",
+    "Revenus & paiements",
+    "Urgences & statut",
+    "Équipe & performance",
+    "Carte Côte d’Ivoire",
+    "Données",
 ])
 
 
