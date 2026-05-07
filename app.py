@@ -768,4 +768,4 @@ with tabs[6]:
 
 
 st.markdown("---")
-st.caption("INEVOKE SARL — Dashboard Facility Management · Streamlit · Plotly · KoboToolbox")
+st.caption("INEVOKE SARL — Dashboard Facility Management ")
